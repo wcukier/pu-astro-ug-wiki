@@ -8,7 +8,7 @@ The astronomy department has 3 main prerequesite tracks that you must complete
 
 Note that there is a decent amount of flexibility in the tracks: 
 
-For Physics PHY 103 / PHY 105 and PHY 104 / PHY 106 and ISC are interchangeable.
+For Physics PHY 103 / PHY 105 and PHY 104 / PHY 106 are interchangeable.
 
 For Math MAT 201 / MAT 203 / MAT 216 / MAT 300 are interchangeable, along with MAT 202 / MAT 204 / MAT 217 / MAT 218.
 
