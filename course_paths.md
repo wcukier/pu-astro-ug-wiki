@@ -17,20 +17,18 @@ Also note, if you are behind on your prereqs due to having a low math background
 ### Which Physics Class should I choose?
 A large amount of astrophysics majors enter the major from PHY 103 - PHY 104 sequence.  People who start in PHY 103 get the same degree as those who start in PHY 105.  Which class you start in is largely a reflection of you high school's course offerings and academic preparation -- not your academic abilities.
 
-You should probably start in **PHY 105** if
-- You have already taken a calculus based mechanics class
-- You have a strong calculus background and are interested in taking a more difficult class
-- You are not taking difficult classes in other departments
-
 You should probably start in **PHY 103** if
 - You have never taken a calculus based mechanics class
 - You want to take a semester or two to adjust to Princeton
 - You want to take a difficult class in another department
 
-You should probably start in **ISC** if
-- You are considering multiple science majors
-- You do not have AP credit in any science or are willing to forfeit it
-- You want a hard course with a tight knit community
+You should probably start in **PHY 105** if
+- You have already taken a calculus based mechanics class
+- You have a strong calculus background and are interested in taking a more difficult class
+- You are not taking difficult classes in other departments
+
+
+The **ISC** also exists but of time of writing this the cirriculem is being redesigned
 
 ### Which Math Class should I choose?
 There is even less reason to push yourself to take harder math classes than physics classes. MAT 103-MAT 104-MAT 201-MAT 202 is more than sufficient for pretty much all the classes you want to take.
@@ -69,8 +67,8 @@ You should start in **MAT 216** if
 - You want your classmates to be IMO level
 - You want to squeeze three really hard math classes into two semesters
 
-### When should I take AST 204
-Reccomendation -- First Year Spring semester but it doesnt really matter if you take it now or later
+### When should I take AST 204?
+AST 204 is offered every spring semester.  It is reccomended that you take AST 204 in your first spring semester if you want to be an astro major but if you take it sophomore spring that works too.
 
 
 ## Reccomended Tracks
