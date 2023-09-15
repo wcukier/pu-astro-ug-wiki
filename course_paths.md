@@ -74,9 +74,10 @@ Reccomendation -- First Year Spring semester but it doesnt really matter if you 
 
 ## Reccomended Tracks
 
-|Semester|Start in MAT 103| Start in MAT 104 | Start in MAT 201/PHY 103 | Start in MAT 201 / PHY 105| Start in MAT 215 |
-|---|----|----|---|----|---|
+|Semester|Start in MAT 103| Start in MAT 104 | Start in MAT 201/PHY 103 | Start in MAT 201 / PHY 105| Start in MAT 215|
+|--------|----------------|------------------|--------------------------|---------------------------|-----------------|
 |First Year Fall | MAT 103 | MAT 104 / PHY 103 | MAT 201 / PHY 103 | MAT 201 / PHY 105 | MAT 215 / PHY 103|
 |First Year Spring | MAT 104 | MAT 201 / PHY 104 / AST 204 | MAT 202 / PHY 104 | MAT 202 / PHY 106 / AST 204 | MAT 217 / PHY 104 / AST 204|
 |Sophomore Fall | MAT 201 / PHY 103 | MAE 305 / PHY 207 | MAE 305 / PHY 207| MAT 300 / PHY 207 |
 |Sophomore Spring | MAT 202 / PHY 104 / AST 204 | PHY 208 / AST 401 (even years) | PHY 208 / AST 401 (even years) | PHY 208 / AST 401 (even years)|
+
