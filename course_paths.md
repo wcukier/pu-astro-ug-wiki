@@ -38,10 +38,11 @@ There is even less reason to push yourself to take harder math classes than phys
 The math department has a guide to the intro sequences [here](https://www.math.princeton.edu/undergraduate/placement/sequences) if you want to read more specifics in the classes.
 
 You should start in **MAT 103** if
-- You are unfamiliar or uncomfortable with single variable derivative calculus
+- You are unfamiliar or uncomfortable with single variable derivative calculus (calc AB)
 
-You should start in **MAT 103** if
-- You are unfamiliar or uncomfortable with single variable integral calculus
+You should start in **MAT 104** if
+- You are comfortable with single variable derivative calculus (calc AB)
+- You are unfamiliar or uncomfortable with single variable integral calculus (calc BC)
 
 You should start in **MAT 201** if
 - You are comfortable with BC-Calc level material
